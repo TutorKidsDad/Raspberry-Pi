@@ -137,4 +137,4 @@ To set up your Raspberry Pi as a hotspot with a captive portal and browser-based
 - Open any browser, and you should see the captive portal.
 - Login to access the pen drive.
 
-Let me know if you need assistance with any specific part!
+
